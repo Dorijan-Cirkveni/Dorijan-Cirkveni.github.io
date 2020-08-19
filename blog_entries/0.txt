@@ -1,0 +1,5 @@
+<subtitle = "They let anyone make a blog these days, apparently :P" >
+This is my first blog entry.
+
+If you are reading this as part of a website rather than a text document,
+it means I was successful at making a website. Yay!
