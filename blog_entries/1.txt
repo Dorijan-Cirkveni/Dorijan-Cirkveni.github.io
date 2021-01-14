@@ -3,3 +3,4 @@ Notice that this is not the 1st entry. ENTRIES START AT 0
 > time 2020/08/20
 > text
 Ideally, this text format should work well with what I'll do next.
+TEST FOR GITHUB DESKTOP
