@@ -6,7 +6,6 @@ date:   2021-03-04 15:22:22 +0100
 categories: meta
 permalink: /blog/:title
 ---
-
 Okay, so I managed to get the blog up and I changed the URL so it doesn't collide with any other stuff I might upload on Github.
 
 Okay, so I managed to get the blog up and I changed the URL so it doesn\'t collide with any other stuff I might upload on Github.
