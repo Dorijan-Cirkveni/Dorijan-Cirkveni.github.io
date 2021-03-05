@@ -1,5 +1,5 @@
 ---
-index: -1
+index: "null"
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2021-03-03 19:21:45 +0100

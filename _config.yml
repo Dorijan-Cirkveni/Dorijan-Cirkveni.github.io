@@ -5,6 +5,7 @@ baseurl: ""
 url: ""
 twitter_username: MouseDoes
 github_username:  Dorijan-Cirkveni
+permalink: /:index
 
 theme: minima
 plugins:
