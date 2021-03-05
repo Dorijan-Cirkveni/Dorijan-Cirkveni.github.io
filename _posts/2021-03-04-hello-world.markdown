@@ -3,8 +3,10 @@ index: 0
 layout: post
 title:  "Hello World"
 date:   2021-03-04 15:22:22 +0100
-categories: jekyll update
+categories: intro, AI, cryptocurrency, quantum computing, web development
+permalink: /:title
 ---
+
 This will probably be a somewhat underwhelming first entry, but it's a start.
 
 Hello. My name is Dorijan Cirkveni, also perhaps known as Mouse Potato Does Stuff/Mouse Potato.
