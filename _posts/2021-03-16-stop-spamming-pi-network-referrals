@@ -4,7 +4,7 @@ layout: post
 title:  "Stop spamming your Pi Network referrals"
 date:   2021-03-04 15:22:22 +0100
 categories: meta
-permalink: /blog/:index/:title
+permalink: /blog/2/:title
 ---
 If you have ever watched a video related to the Pi Network, you have probably noticed one thing: The comment section is full of people pushing their referral codes.
 
