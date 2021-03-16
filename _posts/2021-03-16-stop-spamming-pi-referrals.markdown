@@ -6,11 +6,11 @@ date:   2021-03-16 12:00:00 +0100
 categories: cryptocurrency,pi network,referrals
 permalink: /blog/2/:title
 ---
-If you have ever watched a video related to the Pi Network, you have probably noticed one thing: The comment section is full of people pushing their referral codes.
+If you have ever watched a video related to the Pi Network, you have probably noticed one thing\: The comment section is full of people pushing their referral codes.
 
 And if you are already a member of the Pi Network, you might be tempted to do the same yourself.
 
-Here are 3 reasons why you should not give in to that temptation:
+Here are 3 reasons why you should not give in to that temptation\:
 
 - We are all Pioneers here.
 Well, maybe not all, but most people watching Pi-related videos have already joined the network. They would be unable to join your earning circle even if they wanted to.
