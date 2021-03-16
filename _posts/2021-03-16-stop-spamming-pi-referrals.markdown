@@ -12,7 +12,7 @@ And if you are already a member of the Pi Network, you might be tempted to do th
 
 Here are 3 reasons why you should not give in to that temptation\:
 
-- *We are all Pioneers here.*
+- __We are all Pioneers here.__
 Well, maybe not all, but most people watching Pi-related videos have already joined the network. They would be unable to join your earning circle even if they wanted to.
 
 - *It is very offputting to non-members (as well as other members).*
