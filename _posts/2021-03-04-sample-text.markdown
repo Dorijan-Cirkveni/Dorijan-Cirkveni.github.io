@@ -4,7 +4,7 @@ layout: post
 title:  "Hello World"
 date:   2021-03-04 15:22:22 +0100
 categories: meta
-permalink: /blog/:title
+permalink: /blog/0/:title
 ---
 This will probably be a somewhat underwhelming first entry, but it's a start.
 
