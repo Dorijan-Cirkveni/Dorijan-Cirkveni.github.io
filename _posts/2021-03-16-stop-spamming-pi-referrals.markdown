@@ -2,7 +2,7 @@
 index: 2
 layout: post
 title:  "Stop spamming your Pi Network referrals"
-date:   2021-16-03 12:00:00 +0100
+date:   2021-03-16 12:00:00 +0100
 categories: cryptocurrency,pi network,referrals
 permalink: /blog/2/:title
 ---
