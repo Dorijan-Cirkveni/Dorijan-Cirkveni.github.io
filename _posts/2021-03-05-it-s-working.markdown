@@ -4,7 +4,7 @@ layout: post
 title:  "It's working!"
 date:   2021-03-05 18:00:00 +0100
 categories: meta
-permalink: /blog/:index/:title
+permalink: /blog/1/:title
 ---
 Okay, so I managed to get the blog up and I changed the URL so it doesn't collide with any other stuff I might upload on Github.
 
