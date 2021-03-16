@@ -15,11 +15,11 @@ Here are 3 reasons why you should not give in to that temptation\:
 - __We are all Pioneers here.__
 Well, maybe not all, but most people watching Pi-related videos have already joined the network. They would be unable to join your earning circle even if they wanted to.
 
-- *It is very offputting to non-members (as well as other members).*
+- __It is very offputting to non-members (as well as other members).__
 Are you familiar with multi-level marketing? If so, you might know how annoying multi-level marketers can get while trying to get others to join their downline.
 Well, that's exactly how you will look if you start copy-pasting your referral code all over the place. Not to mention it makes Pi look less-than-trustworthy in the process.
 
-- *You are unlikely to get referrals that way.*
+- __You are unlikely to get referrals that way.__
 For the upper two reasons, you are unlikely to succeed in convincing enough people to join your earning team - and it will most certainly not be as effort-efficient as simply pressing the mining button once a day.
 
 So, you are better off just filling your security circle (which you can do with existing members) and pressing the button once a day. But if you want some possibly useful advice on how to earn more Pi efficiently, I plan to release another article on the topic within a week.
