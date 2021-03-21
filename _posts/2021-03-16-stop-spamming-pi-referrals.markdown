@@ -1,5 +1,4 @@
 ---
-index: 2
 layout: post
 title:  "Stop spamming your Pi Network referrals"
 date:   2021-03-16 12:00:00 +0100
