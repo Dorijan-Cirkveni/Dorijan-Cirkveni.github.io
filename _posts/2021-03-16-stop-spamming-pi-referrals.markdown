@@ -21,5 +21,6 @@ Well, that's exactly how you will look if you start copy-pasting your referral c
 - __You are unlikely to get referrals that way.__
 For the upper two reasons, you are unlikely to succeed in convincing enough people to join your earning team - and it will most certainly not be as effort-efficient as simply pressing the mining button once a day.
 
-So, you are better off just filling your security circle (which you can do with existing members) and pressing the button once a day. But if you want some possibly useful advice on how to earn more Pi efficiently, I plan to release another article on the topic within a week.
+So, you are better off just filling your security circle (which you can do with existing members) and pressing the button once a day. But if you want some possibly useful advice on how to earn more Pi efficiently,
+[you can read this article to find out how](https://dorijan-cirkveni.github.io/blog/3/how-to-earn-pi).
 
