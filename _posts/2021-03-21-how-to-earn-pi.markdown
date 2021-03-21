@@ -5,7 +5,7 @@ date:   2021-03-21 16:00:00 +0100
 categories: cryptocurrency,pi network,referrals
 permalink: /blog/3/:title
 ---
-This post is a sequel to Stop spamming your Pi Network referrals.
+This post is a sequel to [Stop spamming your Pi Network referrals](https://dorijan-cirkveni.github.io/blog/2/stop-spamming-pi-referrals).
 If you haven\'t read it yet, I strongly recommend doing so first.
 
 Okay, so  you filled your security circle. But you still want to earn more Pi and you don\'t want to spam your referral code all over the place to do so. Here are 3 ways you could earn more Pi instead:
