@@ -3,7 +3,7 @@ layout: post
 title:  "(title deprecated)"
 date:   2021-06-23 16:00:00 +0200
 categories: cryptocurrency,pi network,referrals
-permalink: /blog/3/:title
+permalink: /blog/4/:title
 ---
 Idk if anyone is reading this, but if you are, do not buy any crypto. Look up the video from Coffeezilla about Tether.
 It is going to crash, and it will not be pretty at all.
